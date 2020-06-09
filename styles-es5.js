@@ -85,7 +85,7 @@
       "names": [],
       "mappings": "AAAA;;EAEE,YAAA;ACCF;;ADCA;EACE,SAAA;EACA,iDAAA;EACA,yBAAA;EACA,WAAA;ACEF;;ADCA;EACE,kBAAA;ACEF",
       "file": "styles.scss",
-      "sourcesContent": ["html,\nbody {\n  height: 100%;\n}\nbody {\n  margin: 0;\n  font-family: Roboto, \"Helvetica Neue\", sans-serif;\n  background-color: #252934;\n  color: #fff;\n}\n\n.text-center {\n  text-align: center;\n}\n", "html,\nbody {\n  height: 100%;\n}\n\nbody {\n  margin: 0;\n  font-family: Roboto, \"Helvetica Neue\", sans-serif;\n  background-color: #252934;\n  color: #fff;\n}\n\n.text-center {\n  text-align: center;\n}"]
+      "sourcesContent": ["html,\r\nbody {\r\n  height: 100%;\r\n}\r\nbody {\r\n  margin: 0;\r\n  font-family: Roboto, \"Helvetica Neue\", sans-serif;\r\n  background-color: #252934;\r\n  color: #fff;\r\n}\r\n\r\n.text-center {\r\n  text-align: center;\r\n}\r\n", "html,\nbody {\n  height: 100%;\n}\n\nbody {\n  margin: 0;\n  font-family: Roboto, \"Helvetica Neue\", sans-serif;\n  background-color: #252934;\n  color: #fff;\n}\n\n.text-center {\n  text-align: center;\n}"]
     }]); // Exports
 
     module.exports = exports;
