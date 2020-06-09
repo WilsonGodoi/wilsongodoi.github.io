@@ -93,7 +93,7 @@ class AppComponent {
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdirectiveInject"](_resources_services_language_service__WEBPACK_IMPORTED_MODULE_1__["LanguageService"])); };
-AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 10, vars: 0, consts: [["fxLayout", "row", "fxLayoutAlign", "space-between center", "fxLayoutGap", ""], [2, "padding-top", "5px"], [3, "click"], ["alt", "portuguese flag", "src", "../assets/pt-flag.png", "height", "25", "width", "40"], ["alt", "spanish flag", "src", "../assets/es-flag.png", "height", "25", "width", "40"], ["alt", "english flag", "src", "../assets/en-flag.png", "height", "25", "width", "40"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
+AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 10, vars: 0, consts: [["fxLayout", "row", "fxLayoutAlign", "space-between center", "fxLayoutGap", ""], [2, "padding-top", "5px"], [3, "click"], ["alt", "portuguese flag", "src", "assets/pt-flag.png", "height", "25", "width", "40"], ["alt", "spanish flag", "src", "assets/es-flag.png", "height", "25", "width", "40"], ["alt", "english flag", "src", "assets/en-flag.png", "height", "25", "width", "40"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "header", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](1, "span");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "span", 1);
